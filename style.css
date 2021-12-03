@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "GIOVANNI" sans-serif; sans-serif; sans-serif;
+  src: url("font/GIOVANNI.tff");
+}
+*{
+  font-family: "GIOVANNI" sans-serif; sans-serif; sans-serif;
+  background: url("assets/img/backgrounds/contact.png") top center
+}
+h1{
+  color:royalblue; 
+  font-weight: 500; 
+  font-size: xx-large;
+}
+h2{
+  color:red; 
+  font-weight: 500; 
+  font-size: xx-large;
+}
+button{
+  background: #038acf;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  text-decoration: none;
+}
+button a{
+  background: #038acf;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  text-decoration: none;
+}
+button a:hover{
+  background: #038acf;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  text-decoration: none;
+}
